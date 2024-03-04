@@ -1,0 +1,1 @@
+The Weather Application Project is a web-based application that provides real-time weather information for a given location. Developed using HTML, CSS, and JavaScript, the project offers users an intuitive interface to input their desired location and receive accurate weather data fetched from the OpenWeather API
